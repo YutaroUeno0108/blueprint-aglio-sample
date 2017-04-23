@@ -13,7 +13,7 @@ npm install gulp-ejs --save-dev
 
 ## 確認  
 gulp  
-http://localhost:8088にアクセス  
+http://localhost:8088 にアクセス  
 api-mockが使えるとhttp://localhost:3000 に対してAPIを呼び出せる。  
 
 ## TODO  
